@@ -1,12 +1,5 @@
-
-<h1 align="center">Hi there! I'm Marisa Silvina Sandroni 👋</h1>
-
-<h3 align="center">
-  Data Analytics | Python | Software Development | Artificial Intelligence
-</h3>
-
 <p align="center">
-  <em>Turning data into insights and ideas into digital solutions.</em>
+  <img src="github-banner.png" width="100%" alt="Marisa Sandroni - Data Analytics, Python, Software Development and AI">
 </p>
 
 <p align="center">
@@ -142,17 +135,27 @@ Exploring intelligent agents, workflow automation, LLM integrations and AI-power
 
 ---
 
+
 ## 🌎 Let's Connect!
 
-I'm always open to learning, collaborating and exploring new opportunities in technology and data.
+I'm always open to learning, collaborating and exploring new opportunities in technology, data, design and artificial intelligence.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marisa-silvina-sandroni/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/MarisaS1978">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.behance.net/marisasand">
+    <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 😊</b>
+</p>
+
 </p>
 
 <p align="center">
