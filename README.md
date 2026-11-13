@@ -158,6 +158,3 @@ I'm always open to learning, collaborating and exploring new opportunities in te
 
 </p>
 
-<p align="center">
-  <b>Thanks for visiting my profile! 😊</b>
-</p>
