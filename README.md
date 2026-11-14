@@ -93,11 +93,15 @@ Proyecto de análisis de datos y clasificación enfocado en el estudio de la cal
 
 **Tecnologías:** Python, Pandas, NumPy, Matplotlib, Seaborn y Scikit-learn.
 
+📂 **Repositorio:** [Ver proyecto en GitHub](https://github.com/MarisaS1978/Machine-Learning-Projects-Calidad-Aire-CABA)
+
 ### 🧹 Limpieza y Validación de Datos
 
 Proyecto de control de calidad de datos enfocado en la limpieza, estandarización, detección de duplicados y validación de información mediante Excel y Python.
 
 **Tecnologías:** Excel, Python y Pandas.
+
+📂 **Repositorio:** [Ver proyecto en GitHub](https://github.com/MarisaS1978/DAPY-TT-2026)
 
 ### 🍽️ CocinaLista
 
@@ -105,17 +109,25 @@ Aplicación con Inteligencia Artificial para organizar menús, sugerir recetas y
 
 **Tecnologías:** TypeScript, Google AI Studio e integración de IA.
 
+📂 **Repositorio:** [Ver proyecto en GitHub](https://github.com/MarisaS1978/CocinaLista)
+🌐 **Aplicación online:** [Probar CocinaLista](https://cocina-lista.ai.studio/)
+
 ### 🚗 MiGarage-Empresa
 
 Aplicación para la gestión de flota de vehículos y choferes para una empresa, diseñada para organizar información, registrar mantenimientos y recibir recordatorios de servicios.
 
 **Tecnologías:** TypeScript, herramientas de IA y desarrollo de aplicaciones.
 
+📂 **Repositorio:** [Ver proyecto en GitHub](https://github.com/MarisaS1978/MiGarage-Empresa)
+🌐 **Aplicación online:** [Probar MiGarage-Empresa](https://migarage-empresa.netlify.app/)
+
 ### 🤖 Proyectos de Inteligencia Artificial y Automatización
 
 Exploración y desarrollo de agentes inteligentes, automatización de flujos de trabajo, integración de modelos de lenguaje (LLM) y soluciones basadas en Inteligencia Artificial.
 
 **Tecnologías:** n8n, Cohere, RAG y Google AI Studio.
+
+📂 **Repositorio:** [Ver proyecto en GitHub](https://github.com/MarisaS1978/AgenteZeus)
 
 ---
 
@@ -257,11 +269,15 @@ A data analysis and classification project focused on air quality in Buenos Aire
 
 **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 
+📂 **Repository:** [View project on GitHub](https://github.com/MarisaS1978/Machine-Learning-Projects-Calidad-Aire-CABA)
+
 ### 🧹 Data Cleaning & Validation
 
 A data quality control project focused on cleaning, standardization, duplicate detection and validation using Excel and Python.
 
 **Technologies:** Excel, Python, Pandas.
+
+📂 **Repository:** [View project on GitHub](https://github.com/MarisaS1978/DAPY-TT-2026)
 
 ### 🍽️ CocinaLista
 
@@ -269,11 +285,17 @@ An AI-powered application for meal planning, recipe suggestions and shopping lis
 
 **Technologies:** TypeScript, AI Studio, AI integration.
 
-### 🚗 MiGarage
+📂 **Repository:** [View project on GitHub](https://github.com/MarisaS1978/CocinaLista)
+🌐 **Live Application:** [Try CocinaLista](https://cocina-lista.ai.studio/)
 
-A vehicle management application designed to organize maintenance records, vehicle information and service reminders.
+### 🚗 MiGarage-Empresa
+
+Application for managing a company's vehicle fleet and drivers, designed to organize information, track maintenance activities, and receive service reminders.
 
 **Technologies:** TypeScript, AI tools, application development.
+
+📂 **Repository:** [View proyect on GitHub](https://github.com/MarisaS1978/MiGarage-Empresa)
+🌐 **Live Application:** [Try MiGarage-Empresa](https://migarage-empresa.netlify.app/)
 
 ### 🤖 AI & Automation Projects
 
@@ -281,6 +303,7 @@ Exploring intelligent agents, workflow automation, LLM integrations and AI-power
 
 **Technologies:** n8n, Cohere, RAG, Google AI Studio.
 
+📂 **Repository:** [View project on GitHub](https://github.com/MarisaS1978/AgenteZeus)
 ---
 
 ## 📚 Currently Learning
