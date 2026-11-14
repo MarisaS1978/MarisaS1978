@@ -105,9 +105,9 @@ Aplicación con Inteligencia Artificial para organizar menús, sugerir recetas y
 
 **Tecnologías:** TypeScript, Google AI Studio e integración de IA.
 
-### 🚗 MiGarage
+### 🚗 MiGarage-Empresa
 
-Aplicación para la gestión de vehículos, diseñada para organizar información, registrar mantenimientos y recibir recordatorios de servicios.
+Aplicación para la gestión de flota de vehículos y choferes para una empresa, diseñada para organizar información, registrar mantenimientos y recibir recordatorios de servicios.
 
 **Tecnologías:** TypeScript, herramientas de IA y desarrollo de aplicaciones.
 
