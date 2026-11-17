@@ -15,7 +15,6 @@
 ---
 <a id="español"></a>
 
-## 🇦🇷 Español
 
 ## 👩‍💻 Sobre mí
 
@@ -192,7 +191,7 @@ Siempre estoy abierta a aprender, colaborar y explorar nuevas oportunidades en t
 ---
 <a id="english"></a>
 
-## 🇬🇧 English
+
 ## 👩‍💻 About Me
 
 I'm a detail-oriented professional from Argentina with experience in administrative management, data entry, data processing and data validation.
