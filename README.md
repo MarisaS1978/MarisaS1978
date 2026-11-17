@@ -176,7 +176,7 @@ Siempre estoy abierta a aprender, colaborar y explorar nuevas oportunidades en t
 
 ---
 
-
+<a id="english"></a>
 
 <p align="center">
   <img src="github-banner.png" width="100%" alt="Marisa Sandroni - Data Analytics, Python, Software Development and AI">
@@ -189,7 +189,7 @@ Siempre estoy abierta a aprender, colaborar y explorar nuevas oportunidades en t
 </p>
 
 ---
-<a id="english"></a>
+
 
 
 ## 👩‍💻 About Me
